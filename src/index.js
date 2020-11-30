@@ -5,6 +5,8 @@ import "./index.css";
 import App from "./App";
 import registerServiceWorker from "./registerServiceWorker";
 import "bootstrap/dist/css/bootstrap.css";
+import "jquery/dist/jquery.min.js";
+import "bootstrap/dist/js/bootstrap.bundle";
 import "font-awesome/css/font-awesome.css";
 
 console.log(process.env);
